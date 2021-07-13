@@ -14097,3 +14097,9 @@ SECONTRYXDDDDD
 siemaoko
 Splittingop
 witcherda
+G_SETTER
+Kuma_lo_blade
+Kuma_lo_BLEED
+Kuma_lo_PS
+Kuma_lo_witch
+ZZ_SETTER
