@@ -14148,3 +14148,8 @@ SparkTotemForLife
 SummonHorde
 WhalePodCast
 YaaaAnotherTotemBuild
+Silith
+Suffersummoner
+Deadpwnzor
+Deathpnwzor
+Vunleasher
