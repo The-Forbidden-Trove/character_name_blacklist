@@ -17592,3 +17592,5 @@ ttv_thedoos
 tv_thedoos
 Windranger_MF
 Xesokilaq
+majol
+ertoporto
