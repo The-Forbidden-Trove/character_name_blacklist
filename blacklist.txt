@@ -8884,11 +8884,6 @@ Ultimatum_Slim
 HiruzenCC
 Fandemer_Ulti
 Daroshkk
-BurningPukan
-DedaPobeda
-БылДаСлил
-ПамПамыч
-ПумПумыч
 NAMA__
 _GigA__DeliriuM_Alfa
 SixMyDark_SD
@@ -8945,7 +8940,6 @@ MilkyMoonSlayer
 MilkyMoonTwo
 ooO_________Ooo
 TestCharacterSPEED
-Рыгалка
 Fines
 Hexeerin
 VoidSweeeep
