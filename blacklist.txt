@@ -17767,3 +17767,17 @@ TA_NUENG
 Volatile_Broken
 ZORN_Animate
 ZORN_Frost
+BotKilled
+Daniloki
+Dartix
+Dartix_CWC
+Dartix_Imp
+DeePVolatile
+Flortiz
+GolemLearning
+Guila
+ImpaOUpar
+Mirsandel
+MisterMind
+OTaldoHerald
+Sciontriste
