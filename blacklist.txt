@@ -18496,3 +18496,8 @@ do_fast_me
 Do_FASTME
 ㅡAㅡ
 ByeExp
+BOKseinBOK
+BokseinSican
+SicBokBokSic
+SICseinBOK
+SICseinSIC
