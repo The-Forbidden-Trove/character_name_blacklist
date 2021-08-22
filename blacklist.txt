@@ -18804,3 +18804,13 @@ knightBlack
 플래시할배
 홀가분BK
 활쟁이아가씨
+Jax_Agony
+Jax_Ice
+Jax_S
+JaxCyc
+JaxEarth
+JaxH
+JaxR
+JaxSlam
+JaxTECT
+JaxZ
