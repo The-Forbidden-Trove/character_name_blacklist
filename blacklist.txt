@@ -17863,7 +17863,6 @@ TOXICGOGI
 ULTIGOLEMGOGI
 WPGOGI
 GoExped
-Alaran_SO
 DevoraKill
 Hermesop
 LacDaemons
