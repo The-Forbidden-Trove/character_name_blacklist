@@ -11454,17 +11454,6 @@ Olo_CH
 Olocaosto
 Olochaost
 Olochaost_hvHC
-Olohyp
-Olohyp_dSC
-Olohyp_HC
-Olohyp_heiHC
-Olohyp_heiSC
-Olohyp_hvHC
-Olohyp_hvSC
-Olohyp_mHC
-Olohyp_mSC
-Olohyp_ulHC
-Olohyp_ulSC
 OmmegaPepega
 Omniah
 OneDopaminePlease
