@@ -18559,3 +18559,12 @@ Scourge_Mariola
 Trap_Mariola
 Vort_Snap_Mariola
 WildBear
+AurasJustAuraSss
+BvCaRLoS_Ulti
+EXP_BlockCaRLoS
+EXP_WinterCaRLoS
+ExpSLaYeR
+FlashingCaRLoS
+ImCaRLoS
+SummonCaRLoS
+YesImCaRLoS
