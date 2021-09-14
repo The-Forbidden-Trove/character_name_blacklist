@@ -18713,3 +18713,4 @@ OneEyedBleedBow
 OneEyedFireBurst
 Oneeyednecro
 OneEyedShieldCrush
+OsGurii
