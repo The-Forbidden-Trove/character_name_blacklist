@@ -18763,3 +18763,9 @@ HowManyCharIllCreate
 ICanFaceTankAll
 SpectralDickusThrow
 aboltusmoltus
+wdcfgj
+WDCFGJ_DELIRIUM
+WDCFGJ_HARVEST
+wdcfgj_heist
+wdcfgj_ritual
+WDCFGJ_ULTIMATUM
