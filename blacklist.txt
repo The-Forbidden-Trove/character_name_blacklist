@@ -18814,3 +18814,4 @@ SparklingNose
 SpeedFarmerKekW
 Speedy_Freeze
 SpeedyNosE
+PerfectChar
