@@ -18827,3 +18827,4 @@ Saulim_Ultimatum
 Saulim_ULTIMO
 SaulimSA_Ultimatum
 allowedtheslayer
+Кулагин
