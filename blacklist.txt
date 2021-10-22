@@ -15870,17 +15870,7 @@ WIENOAARTS
 Swondate
 ExpoTrapMako
 MakoSplitting
-Daichto
-Makujmi_disc
-MakujmLLL
 Markovka
-Wai_OPG_Ngamahu
-Wai_Ritual_carry
-Wai_ritual_che
-Wai_Utimatum_Sup
-Waiiiiw
-WaiWillbeFine
-ZapraBwik
 Beshinosu
 coaielepizdiimatii
 ColaZeroZahar
@@ -15932,7 +15922,6 @@ Expedition_Bigmama
 Master_key
 memecandygirl
 kshakjsw
-MakujmiLLL
 Practiscahr
 GatoIsFat
 solososss
@@ -16169,8 +16158,6 @@ Simona_Halep
 SyndicatuD
 Transaminaze
 UntoldRomania
-Makujmi
-Makujmi_Uzumaki
 ticauen_nobeth
 amumucry
 MadNanashi
