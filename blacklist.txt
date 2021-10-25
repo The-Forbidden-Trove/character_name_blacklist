@@ -9577,7 +9577,6 @@ Chest_Ritual_Six
 Chest_Ritual_Three
 Chest_Ritual_Two
 CheTakDorogoSuka
-ChickenTikkaDownstairs
 ChicoFlacko
 ChiefKilla
 ChiefPeguisIsMyDad
@@ -10473,7 +10472,6 @@ Ifesmmas
 IFLikFLikI
 iGotALittleStick
 IHaveABigBlackCoconut
-IIIIAMOP
 IIIILeviathanIIII
 IIInerIII
 IIItotemIII
@@ -12264,7 +12262,6 @@ tricksteronnie
 TrickyMan
 TrickyNoogi
 TriHeraldBrokenHeart
-TripleRevenge
 Trololoman
 trostlos
 TroubleOnMyLeft
@@ -12498,7 +12495,6 @@ whitethundah
 whocareidont
 whtevatest
 WhyDestroyGGGthisGame
-WhyIamSoOP
 whynerfassassin
 Wi_Orb
 Wickedyke
@@ -13682,7 +13678,6 @@ Atoxxxic
 AURABOTSIKERATAR
 Ayiai
 B_SETTER
-BaggiWarrior
 BallLightThor
 BannedEV
 BARANDUK
@@ -14050,7 +14045,6 @@ IHearCycloneIsGood
 immaddog
 InYourHead_Zombie
 JohnnyTsunamiii
-JudgmentOfHelion
 JukSolevik
 JustTotemz
 KageVortexxx
@@ -14223,7 +14217,6 @@ UQEHRTDFSWRFYUERQHADFSB
 vanyaloh
 VersionsBlock_The_Atlas
 Vespe_Rock
-ViciousMastery
 vitaminABC
 VladosikTUTOberarmgoesbig
 vShaxteNetProfita
@@ -14717,7 +14710,6 @@ bobobabuin
 boredbladez
 BOSS_SERVICE
 Brancerate
-ByMySlave
 ccroptt
 CLnullkommafünfk
 ColaCust
@@ -14806,7 +14798,6 @@ RoflanSkeletron
 sacrifish
 sadasdasdyutu
 sdfbsdfbdsfb
-SlaveeDriver
 SlightlyChubbyThang
 SomeFunkyBuild
 ssenkraDfOssecnirP
@@ -15310,7 +15301,6 @@ I_am_unoriginal
 ididdat
 IDOGODOWN
 ImAyR
-InfectedEarth
 IzviniChtoTraxnul
 JonteMetamorph
 jsdigyhsd
@@ -15827,7 +15817,6 @@ HCCapFizz
 cursedeeznutz
 bartolomeo_my_friend
 나는게이야
-BounceDefender
 totemchik_
 amazing__COC
 WIENOAARTS
@@ -16272,7 +16261,6 @@ Makingtrees
 BoniMyUnique
 хху
 bankierook
-Luntar
 DisturbedbanEXP
 шнгпгнпшглргр
 네크형
@@ -18033,8 +18021,6 @@ Totem_DSC
 Windriper_ISC
 IamAStepsis
 WeareStepsis
-HatersGonnaHatee
-Nasconder
 CounterExpPBV
 Shellr
 Speewpofew
@@ -19700,8 +19686,6 @@ DelauSumonovRaduusJizni
 FanatButirki
 RitualnayaGolemshica
 VavaDevochka
-ButterChickenPizza
-ChickenTikkaDownstair
 Metoksihlordietilomino
 Harvest_Osaka
 Heist_Ossa
@@ -21312,12 +21296,6 @@ themehmetbolzak
 Dave_scourge
 MamadorDeGenteRuim
 LeoRezenddBRi
-AOEDamage
-IceBlanket
-Izolabella
-MyBallAreFrozen
-PoorAsAF
-TestIsGoinOn
 ZE_VAQUEIRO_NOIA
 흑룡대천
 hz_chto_
@@ -21817,3 +21795,23 @@ scouurgemcduck
 podacal
 osokendiss
 GEODSMRAIN
+ToxicMadam
+Toxic_as_i_can
+Burstsprint
+ro_gladiator
+MisterTrap
+GolemsCaster
+Trapetista
+Golfei_LeagueRespec
+Aaleea_
+Aaleea_Scourge
+IntelCore
+ZuumBoom
+LomakaYA
+KORKRANEUH
+ExLowBall
+Ballarina_Anoxia
+BlastBlade_ritual
+ерлан_дохлич
+Lobim
+afsdfasdfasdfsadf
