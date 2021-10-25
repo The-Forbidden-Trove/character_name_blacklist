@@ -11533,7 +11533,6 @@ PutangInaMoRin
 PUTINHUILUSHA
 PutItInCider
 PuzziDestroyer
-PVE
 PvP_King
 qAcicic
 Qalithien
