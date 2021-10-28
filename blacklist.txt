@@ -6060,7 +6060,6 @@ StrongEblan
 StrongEDaun
 StrongEDhpPozor
 StrongEDPozor
-StrongES
 StrongHCAviable
 StrongKavo
 StrongKorobka
@@ -6550,18 +6549,12 @@ byciume
 Ult_IceShot
 Seven_Reasons_To_Die
 salavalavalavalava
-_ItIsWhatItIs_
-Dudec_Ritual
 ES_IS_STRONGER
 IidkwhyidothatI
 Im_vortex_u_are_easy
 NometaNVM
-pepega_allegator
-PhoenixAOffline
-sixteenyoueban
 Stop_spam_me
 ДжокэрВикторДудка
-Крутилка_Дудилка
 Wilgector
 riplordd
 matt_sss
@@ -14709,7 +14702,6 @@ dfghhkdhjlhjl
 divinitycardfishyfish
 Dominatingcontent
 DrowㆍRanger
-DudecAuraImba
 DumpLarry
 DungeonMasterDelve
 Duo_A
@@ -15728,7 +15720,6 @@ vakilla_Q
 vakilla_regret
 FrozenColdCrit
 Dededen
-ЗвдолбалиРайдерки
 BorgalTravelerPLZ
 Summon_enjoer
 MTH_EX_
@@ -17217,7 +17208,6 @@ TurretsGoPRR
 ZombieRRRRR
 ДиарейныйРазлом
 Syron_NOTAMETASLAVELUL
-start_acts_every_day
 ewqagfsvef
 qwefdsggf
 de_necro
@@ -18002,8 +17992,6 @@ VaalFlaskEffect
 샤넬S
 RussianCarrionBot
 RussianStrike
-bersimba
-ЯминаЯмина
 HieuGayy
 weqsfdhfd
 Boosiesummon
@@ -19824,8 +19812,6 @@ Siynara
 ЯЦарьМорей
 Dreadlighttt
 바나나차차바
-ssftrainshadow
-vortexsolorun
 matt_sssss
 Drengr_Aesir
 InVi_GT
@@ -21030,7 +21016,6 @@ dragusmore
 TEST_TRAPA
 ppopopooppp
 StrongPizda
-anotherstarttryagain
 fgdfgdfgcvbcvbcvb
 weaewrteqrter
 aaaaaaaaaaaaaaaaaqweqwe
@@ -21313,7 +21298,6 @@ InsidiousMarauder
 ZMEIGEROINICH
 Call_Me_Immortal
 BrainCancer
-Dudec_scu
 Sc_이지은
 chiikawaSC
 InVI_PainChamp
@@ -22374,3 +22358,4 @@ WorstLeagueContentEVER
 Z_DiAvOlChIk_Z
 유_유_유
 `picuffffffffff`
+`Zizmoron`
