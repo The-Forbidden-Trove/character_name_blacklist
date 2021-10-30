@@ -22745,3 +22745,5 @@ PrimalFiftyPercent
 `StrongPrizrak`
 Sxven
 delvsetap
+`Выпустите_на_КАРтЫ`
+Scourge_Arizona
