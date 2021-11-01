@@ -23005,3 +23005,12 @@ Bee_Farmer
 `bowattacker`
 `BowBrrrrrrrrrrrrrrrrr`
 `구비구비`
+`i_deal_elemental_dmg`
+Шмарси
+Classicsumoner
+`MedusaSkadiDaedalus`
+`SkeletiPewPewPew`
+`КоролеваЧидори`
+`МастерРасенгана`
+`ЭлектрикПетя`
+lobsterspeedrunrun
