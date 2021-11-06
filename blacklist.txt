@@ -23838,3 +23838,5 @@ Grains_Moulus
 `Name_For_Character`
 `MentaGranizada`
 `DivineOrc`
+WoodMyNameIsWood
+thormjolnier
