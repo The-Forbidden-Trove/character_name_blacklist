@@ -24849,3 +24849,4 @@ StandardStacker
 SwordBearerOfTheWeek
 TheNecrobeatch
 WraeclastsMaraurder
+Whitehorsename
