@@ -23862,7 +23862,6 @@ AyRTrap
 nompunge
 ม้าสีหมอก
 ClushWander
-KobeBlackMamba
 BuchanskiyShpak
 Exoduz_Scourge
 MobPufnulsya
@@ -24735,7 +24734,6 @@ Hyst_Stacki_TT
 Zeronyx
 _____BoneFletcher
 leak
-nebula
 `ScourageScherwood`
 EchoslamInOrphanage
 SSGHOUL
