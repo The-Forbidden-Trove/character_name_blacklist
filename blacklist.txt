@@ -24213,7 +24213,6 @@ salamaamma
 skurker
 spectralthrowne
 wontworkiswear
-FireREO_O
 ZachX_TS
 Doolbaebik
 Grandpa_CoC
@@ -25040,4 +25039,5 @@ PlayerKiller
 PleaseGiveMeConc
 Shinemara
 WannaDieLol
-Survival
+ДЯДЬКАСТЕПА
+UnluckyDave
