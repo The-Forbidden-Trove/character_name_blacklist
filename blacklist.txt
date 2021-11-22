@@ -23531,11 +23531,6 @@ DedAmletus
 네그루의나무
 uwwuwuwu
 eliretemi
-CarrionStillOnMyMind
-GENERALPLACZE_TARCZA
-GORACAPatelniaBUILD
-GRZMOT_WALKINGSIMULATOR
-Korupcyjna_Goraczka
 MrozacyPulsTotemiczny
 Ponton_Dominujacy_Cios
 Ponton_krwawic_Luk
@@ -25157,3 +25152,5 @@ Wirdschon
 Yavalanor
 Limatuiilak
 goga_volk
+YOSHIMITSUx
+DB_Kontogiorgena
