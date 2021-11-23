@@ -3475,7 +3475,6 @@ BlightFirst
 Carrington
 CelestialMoltenJugg
 Clogged
-Completionist
 Confuzzled
 DCYoungFly
 dsfdahvgbfasjkgtsbdjvcx
@@ -25305,3 +25304,6 @@ SiklicEatsLemon
 SiklicEatsPizza
 SiklicEatsSteak
 Narazeroseven
+ScourgeRangerrr
+SolidSnaking
+Nerazeroseven
