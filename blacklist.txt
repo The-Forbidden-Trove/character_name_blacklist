@@ -19212,17 +19212,6 @@ HeardYouLikeAura
 HeardYouLikeFrostBlades
 NerfedButOk
 NerfedRoku
-Jeyan
-Ryou_Expedition
-Ryou_IceExp
-Ryou_RitualCoC
-Ryou_RitualIce
-Ryou_Ultimatum
-RyouCarrionBoogaloo
-RyouCoCBoogaloo
-RyouDelve
-Ryouiceboogaloo
-RyouMayhem
 Imperiusssss
 Sorloy
 AutumnOrb_
@@ -25342,3 +25331,6 @@ VortexNutte
 WirbelnderWillie
 Gent
 MinePeCiclu
+lowyo
+Rothass
+tipothis
