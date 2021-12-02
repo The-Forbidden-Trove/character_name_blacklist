@@ -3686,7 +3686,6 @@ WeBowBuildAgainBoyz
 iamSephi_Wander
 Ikotikotlang
 ABR_KADABRA
-Ryou_Ritual
 HunterRT
 AlvinBBP
 AlvinRaidED
@@ -11563,7 +11562,6 @@ RussianGypsy
 Ruyinx
 Ruyzin
 rygftghfghn
-Ryou_IceUlt
 S_G_SpectralBank
 S_Ultimate
 Saci_De_Bicicleta
@@ -21776,7 +21774,6 @@ life_is_a_curse
 BoornInFire
 zxcOlegMongol
 WinLanEmCold
-Ryou_Ice
 Phewpepew
 LobomPoison
 PrimalAnotherSpark
