@@ -10839,7 +10839,6 @@ MatildaDawgx
 Matum_Totem
 MauiWauii
 MauiWauiiiiiiiii
-Mavensclitoris
 Max_Block_Slayer
 maxneedsamanstouch
 MayhemSShadowS
@@ -11481,7 +11480,6 @@ RemiLacroix
 Remind_Me_To_Stop_Dying
 RemnantViolet
 RenameJASDHAF
-RenegadeSpinningTop
 Reveliant
 RF_Fire
 RF_NDR
@@ -12440,9 +12438,6 @@ XfinallyoccultistX
 XLarisa
 xMcJoe
 xPapaj
-Xrvbjr
-Xrvbjr_RAIN
-Xrvbjr_Xrvbjr
 xWinter_Is_Comingx
 xX_YasuoGod_Xx
 xXLordIIIStrygerXx
@@ -14021,7 +14016,6 @@ Thor_HIT
 thundershrekaway
 TinderAbuser
 TNT리그
-Totemkidddddddddddddddd
 TotemPulseTeste
 ToxicKoleno
 toxicliga
@@ -16067,8 +16061,6 @@ de_sanguinus
 Сам_себе_ДЕД
 ЭтаЛига_прекрасна
 TankTuik
-Anubis_DoubleStrike
-Anubis_MTX
 ANOTHERONEOK
 Theorik
 ONIGOROSHIONESMILE
@@ -20935,7 +20927,6 @@ MeleBane
 dmgScourge
 어공할배
 할배실패로레이더
-ColdBoy_Xrvbjr
 old_slap_ass
 Fiumbaaa
 Lovemachine
@@ -21349,7 +21340,6 @@ Zeuis
 NAMA_____
 speelllcold
 VisteChe
-CoronaDoesntMeasureUp
 yoquesetuik
 Mecky_Scourge_Summoner
 PriceofRoma
@@ -23694,7 +23684,6 @@ DA_MA_YEN_DEN
 therapeutic
 DiscordsTrap
 KABULON
-HopefullyThisIsEnough
 TheTornadito
 KisaboScourge
 AyRTrap
@@ -23787,7 +23776,6 @@ Telka_Crisa
 WTF_ColdBreath
 cocodiaz
 FragKB
-RageVortexExtraCopium
 kodamaRF
 ЧмымрикНевмирущий
 AyR_ScioN
@@ -25971,7 +25959,6 @@ lIliIlilIIilIllII_CROA
 Fuegoslinger
 NoLightsMF
 HardsPlayer
-ElectricReap
 MarauderSImu
 CountDuko
 Trope
@@ -26633,3 +26620,16 @@ Sir_Xicot
 TSunami_MF
 Yue_Fei
 ZeusBomber
+Anubis_DoubleStrike
+Anubis_MTX
+ColdBoy_Xrvbjr
+CoronaDoesntMeasureUp
+ElectricReap
+HopefullyThisIsEnough
+Mavensclitoris
+RageVortexExtraCopium
+RenegadeSpinningTop
+Totemkidddddddddddddddd
+Xrvbjr
+Xrvbjr_RAIN
+Xrvbjr_Xrvbjr
