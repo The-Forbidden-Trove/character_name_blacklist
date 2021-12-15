@@ -27398,3 +27398,5 @@ PauDePano
 bomberman_deluxe
 PleaseWeaverNoShotgun
 SUmmiKjio
+TimeToClearMapsFaster
+UncleBugFlicker
