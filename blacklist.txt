@@ -27913,3 +27913,7 @@ StopDiePlease
 ppa_ppa
 hellssing
 shieldr
+MegaStrell
+t_tdf
+Ewaerta
+ExpensiveMinionBuild
