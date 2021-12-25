@@ -27860,7 +27860,6 @@ GIMshadow
 HercuIess
 SwerdBoi
 MooreHauder
-Lifetap
 PC_CBOITO
 DonaldTusk
 전방에_EXP
@@ -28044,3 +28043,4 @@ ROSEEEEE
 ROSEEEEEEEEE
 ROSEEEEEEEY
 BOOGIEINVASION
+Haighthate
