@@ -27949,3 +27949,7 @@ InvaBogyNecro
 Mithos_bosses
 히드라패파
 Shellscale
+PathOfPleasure
+GeneralGrandMarauder
+Super_Old_Man
+МАМКИН_БОСС_КИЛЛЕР
