@@ -28059,3 +28059,4 @@ TrapTrapRunningBosses
 STEELINASS
 Mithos_five
 Anoxia_Atlas
+ZeleneSlamice
