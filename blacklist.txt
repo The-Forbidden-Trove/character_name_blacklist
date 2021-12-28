@@ -789,17 +789,6 @@ TrapEld
 WarChTTm
 WInteR_L
 ЧелКек_Павук
-BigBadBuffs
-ItsYaLadyAuntieBug
-MustKillSirusHC
-NotTheUsualDeadeye
-ThemRainyDays
-TryAndPayAttention
-UncleBugAuraBot
-UncleBugEchoStarter
-UncleBugeroo
-UncleBugHeist
-WinningCosImSpinning
 Vill_o_chka
 BladeOfPoop
 izimoneymaking
