@@ -28268,7 +28268,6 @@ Ulti_NoMirror
 vaalnhucec
 Scourge_Cycloneee
 WUWUWUWUWUWUSHLACK
-Lifetap
 OneShotAndreas
 DED_MAX
 CURSEBOTFLUFFY
@@ -28840,3 +28839,5 @@ REXER
 열시삼분에생성함
 인생업적호라이즌쌍망
 Страха_нет_мозгаТоже
+DiscordDeli
+JazzzZZZZzy_
