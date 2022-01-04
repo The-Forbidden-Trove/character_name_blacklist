@@ -20132,9 +20132,6 @@ __A_F
 아버지는켜져있다
 배틀레이더
 탐험_데스놈_싸클
-connectiont
-관람사냥
-소완수
 eqaeaeaeae
 голем________и_всё
 дарова_печь
@@ -24950,7 +24947,6 @@ BladesFellOnBradynsPP
 lanying
 rakehero
 Badshex
-Save_My_Spectre
 zxczxcc
 DropmeaMirrorAlready
 booming_thru
@@ -28844,3 +28840,15 @@ JazzzZZZZzy_
 ULTIMATUM_Coming_Soon
 MMMMMMMMSSSSSSS
 originalekostas
+환영_슬레이어_늑대
+FireworksFestival
+Spectrererer
+대꺠넥
+뛔리니
+소완사
+Wzx_HcSsf
+Wzx_Old
+Wzx_RITUAL
+Wzx_sadman
+Wzx_SB
+Wzx_win
