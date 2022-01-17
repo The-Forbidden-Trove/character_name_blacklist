@@ -29302,8 +29302,6 @@ NPZ_
 NPZ__
 NPZ_Scourge
 NPZazz_Scourge
-ScorchedD
-Spectre_bank_BE
 Spectur_Bank
 StormingD
 StumbleDoor
@@ -29320,3 +29318,5 @@ SimpleManFromEngland
 CuckedonMudFlats
 활든할배
 criticalstrikeschance
+scorchedd
+spectre_bank_be
