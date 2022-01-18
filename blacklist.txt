@@ -29287,3 +29287,5 @@ jevinrangerstd
 jevintestrun
 jevintestrunn
 raiderbois
+csw_duelist
+csw_templer
