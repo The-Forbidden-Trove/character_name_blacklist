@@ -24045,7 +24045,6 @@ IamDapano
 IamMini
 IClearMaps
 Igorspenis
-Luca
 MFAcad
 NerfSecondWind
 NerfSmokeMine
