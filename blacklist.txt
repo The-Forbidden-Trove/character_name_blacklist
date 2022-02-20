@@ -4814,9 +4814,6 @@ Spectre_Bank_Of_Thom
 ThomTest
 Thom_Zombie
 Thom_Winter
-Lookatmeinst
-Heringtone
-darovazdarova
 Orkst3r
 Orkstr
 RTEEEEEESTER
@@ -9024,7 +9021,6 @@ AnotherGoodForNothing
 Ansastajaa
 AnSolMaCHiNe
 ANTI_GREMLIN
-AntiPastiWrona
 AntiSid
 Antonius_XIV
 APO_EXSA
@@ -9197,7 +9193,6 @@ bersochkaa
 BersUltimatum
 Berzyclone
 BEST_ONIICHAN_POE
-BestBigStepBrother
 BestBossKillerEver
 BetrayalWaitingRoomPOG
 BETREYAL_FIRE
@@ -9317,7 +9312,6 @@ BossingIsMyPassion
 BossRest
 BotForGroupPlay
 botiinochek
-BoundlessStrike
 BOW_DOWN_
 BOWRANTWO
 BowToYourQueen
@@ -9869,8 +9863,6 @@ everynameistakenlul
 Evil_Warlock
 EVILFamily
 EvilMegumin
-EvilPapeech
-EvilPopIt
 EVLED
 ExaltedPhallus
 ExaltingTime
@@ -9950,7 +9942,6 @@ Fidekk
 filthysurastacker
 FinallyFree
 FinallyHateThisGame
-FingerInGGG
 finn_arcwitch
 finn_managuardian
 Finnry
@@ -10458,7 +10449,6 @@ jazzartist
 JcycloneJ
 Jelliumatium
 JennyTsunami
-Jeromka
 JestKurwaChujowo
 JFK_FirstTotemOnAnus
 jghjytuhfh
@@ -11146,7 +11136,6 @@ O_Lags
 Occultesticles
 oCORRUPTEDKAOMo
 OffMachineOn
-ofkbtwanyway
 OgnistaStrzala
 oHHHHHHHHHHHHHHHHHHHHHo
 ohmaibawhat
@@ -11230,8 +11219,6 @@ papa_alkogolik
 Papajv
 papaschlapacodyexplodey
 PapaWalks
-Papeeech
-Papeeeech
 Paplch
 ParaPartner
 PariFrendii
@@ -12001,7 +11988,6 @@ The_Pinnacle_of_Success
 TheBadSister
 thebeg
 TheBestOfTimes
-TheBigStoryOfPanda
 TheBigYinUK
 TheBladeVortexMan
 TheBusinessMan
@@ -13257,7 +13243,6 @@ Mecky_Exp_SA
 Meleexpedition
 memamimo
 menNOTanimalss
-MightAndCasual
 mikituiktest
 MILFHUNTER_expedition
 MilkoSpectre
@@ -14182,7 +14167,6 @@ ZnorbusanAbungalaCACA
 ПокаНеПридумалНикalilbitofpractice
 ПокорительАкведука
 Пораразбиратьсявмеханик
-ПоследнийЛучик
 ПоступилНаБомжа
 ПотужныйПавук
 ПочтиПятилинк
@@ -23486,7 +23470,6 @@ BfPDryhwGG
 경상남도지방덫
 SBratvoiNeSkuchno
 maceauragreatagain
-QuckOLD
 BornToKickAss
 _katniss_Evedeen_
 Каменщик_три_дня_ЕМ
@@ -23970,7 +23953,6 @@ BLICKYCHAIN
 my_dear
 ЗвучитХайпово
 OG_Zubar
-inst_yourrfuhrerr
 S_Boohman
 SummonImba
 TragenderFunke
@@ -26219,7 +26201,6 @@ Zombieendless
 алексей_снимайте_трули
 lvlfiftyandleave
 SexiPlexy
-NATRIBUorg
 qweqweqweqweqqqe
 kushau_pitsu
 ыфыфыфыфыыйц
@@ -26702,7 +26683,6 @@ Bokrox_Deeper
 _й_
 leeChaoblaa
 cnoteczka
-YaRoksTebeNaASS
 AV춘향이
 춘배와춘향
 LVL_VISHE_PYADESYAT_NET
@@ -26782,7 +26762,6 @@ flaskgiveme
 PhysITaps
 Bokrok_Metagamer
 Буккакэ_
-Loeffler
 AnotherEightyFive
 asasasassasax
 niewiemhelp
@@ -26811,7 +26790,6 @@ Ziz_Incinerate
 Vazeline_Online
 RefreshingPoEMuse
 ZalupoiPoLbu
-MMMspasibozassf
 gdfhsfdhdfshfdhdf
 SteelBuildgg
 dyingmanytime
@@ -30016,7 +29994,6 @@ archenemyanoxia
 rainerinka
 ckaibackaiba_zanasimp
 xawxawxawxaw
-ronialteroni
 fortunewithme
 arcoonparkoon
 fakeinformationbtw
