@@ -13046,7 +13046,6 @@ ShaxNerfed
 SheLikestheCOCOC
 ShellSST
 ShittyArpgEver
-ShortQQQ
 ShoxicRainFizz
 Shud_Duelist
 SidoruNooban
@@ -34163,3 +34162,6 @@ sni_scourge
 sns_scourge
 snyd_endless_delve
 snz_scourge
+bowcbillie
+dualstrikebillie
+tornadobillie
