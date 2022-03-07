@@ -3552,7 +3552,6 @@ ars_IZ
 dabios_Ritual
 dabios_sun
 Legendary_born
-Legends_never_die
 myGolemsKilledCyrus
 OLD_Perdyn
 OuroborosRF
