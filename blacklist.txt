@@ -35622,3 +35622,5 @@ terheshasú
 dendro
 bledtodeath
 laquigga
+death_toxic_way
+hit_me_way
