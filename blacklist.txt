@@ -27190,8 +27190,6 @@ Helsinki_Delirium
 Kingston_Scourge
 Lusaka_Mayheam
 Oslo_Expedition
-amcaminoglu
-B_Rf_SonKararim
 BAYILAjACKSON
 DoneJacson
 Geliyorum_Shaper
@@ -27851,7 +27849,6 @@ Vicanti
 Zaradenne
 ADC_AP
 시즌말지방덫
-minerhalo
 JimmySxz
 babyicemine
 DAYONEWAND
