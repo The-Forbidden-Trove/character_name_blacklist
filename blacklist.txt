@@ -36131,3 +36131,4 @@ daldal_proebal
 daldal_reap
 daldal_skeletich
 daldal_skeletonochka
+zombiestomb
