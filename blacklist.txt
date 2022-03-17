@@ -36117,3 +36117,17 @@ skeltelye
 파워차지
 bajdenwakeup
 dedulyablyataga
+daldal_axe
+daldal_bbenjoyer
+daldal_burn
+daldal_cursed
+daldal_harvest
+daldal_heist
+daldal_heist_zom
+daldal_kapatel
+daldal_leg
+daldal_notripagain
+daldal_proebal
+daldal_reap
+daldal_skeletich
+daldal_skeletonochka
