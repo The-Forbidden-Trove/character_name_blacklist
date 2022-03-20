@@ -36321,3 +36321,5 @@ arch_nuna
 boczek_lucznikov
 토실이뼈박살치프틴
 а_ну_ка_на_ка
+kingofglobal
+queenofglobal
