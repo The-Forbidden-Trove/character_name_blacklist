@@ -37215,3 +37215,7 @@ invi_impossible
 totemparaavitória
 totemqualquercoisa
 perodisaurabot
+gauntaa
+gauntlet_hardy
+kilerbiee
+witchergaunt
