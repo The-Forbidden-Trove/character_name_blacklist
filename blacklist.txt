@@ -37330,7 +37330,6 @@ beginners_luck_c
 cast_on_soulslike
 code_name
 dark_soulseu
-delete
 delete_mayhem_sc
 demon_souls_hc
 dick_cutter
