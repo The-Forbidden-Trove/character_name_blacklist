@@ -26579,12 +26579,6 @@ Ziz_Event
 всепока
 ккееуйцавпамвып
 Лига_збс_
-Gatzugo
-PoEMaus
-Sangetzu
-SkelettUp
-SonnikRu
-ЧистаяРукаКрови
 DAYONE_AURA
 DAYONE_BOT
 DAYONE_BRAND
@@ -27250,7 +27244,6 @@ StopDiePlease
 ppa_ppa
 hellssing
 shieldr
-MegaStrell
 t_tdf
 Ewaerta
 ExpensiveMinionBuild
@@ -27263,8 +27256,6 @@ UncleBugBallista
 icesponcke
 GaTroc
 asseqqe
-StrelaGo
-WedmaPower
 BONEHSATTERSX
 peepoocrap
 NotCringelord
@@ -29912,7 +29903,6 @@ homenayter
 asdojasdafa
 просточлён
 маныч
-fastblitz
 csw_witch
 jimmys_archmi
 arakalifangihope
@@ -36923,7 +36913,6 @@ worb_back
 esrealz
 i_like_to_die_ten
 digganaut
-tryiceshotbow
 gauntgill
 pisiunieczka
 fasdfsdafgasgasg
