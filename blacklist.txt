@@ -40509,3 +40509,5 @@ sorfin
 setinel_dregson
 sentinel_dregson
 delirium_hallow
+freakingmanpoe
+tezal
