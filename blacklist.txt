@@ -42848,3 +42848,5 @@ breachring
 ddabyss
 프레임
 foxyv
+boneshattersentfromhell
+krs_arakali_sen
