@@ -9522,7 +9522,6 @@ EFM_SpellSlinger
 EFM_TESTBANE
 EFT_Killa
 efwfdsew
-EgirlAurabot
 egirlauras
 egirlLabs
 EHgoesBRRRR
