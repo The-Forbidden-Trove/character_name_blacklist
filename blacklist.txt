@@ -43347,3 +43347,13 @@ xcc
 헬린이동민왕
 mevehi
 missionimpossible
+notsight
+notsighta
+sentinel_killuaa
+sight_r
+sightne
+sightnee
+sightnu
+sightsc
+sightself
+sightu
