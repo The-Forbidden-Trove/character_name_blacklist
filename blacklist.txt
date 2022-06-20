@@ -45630,3 +45630,4 @@ mindstab
 mindtank
 mindthrow
 mindwinter
+내가몇가지루프를가질수있습니다
