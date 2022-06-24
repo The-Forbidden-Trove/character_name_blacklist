@@ -45938,3 +45938,5 @@ anomalous_minion_speed
 congabin
 sciondeli
 mitigation
+freakastriker
+traspoertasd
