@@ -46008,3 +46008,5 @@ sentinel_twelve
 sentinel_dejavu
 remy_lacroix
 allan_skele_sentinel
+molazara
+bluesocket
