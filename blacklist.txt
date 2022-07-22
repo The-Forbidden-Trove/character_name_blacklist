@@ -47719,7 +47719,6 @@ linear
 live
 meter
 mfw
-oil
 pawnstar
 pci
 rap
