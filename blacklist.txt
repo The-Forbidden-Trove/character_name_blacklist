@@ -47768,3 +47768,6 @@ zmaprc
 zzmaprc
 floopy_zizgauntletg
 govnosentinel
+necromanduelist
+necrotempow
+ssfissechampion
