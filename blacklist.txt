@@ -47770,3 +47770,4 @@ gate_of_time_____dienow
 startertr
 startertr_ostry
 로또일등된사람
+senti_ultimo
