@@ -47905,3 +47905,4 @@ assminebacon
 nesitabletki
 mfliro
 keku
+summon_slayer
