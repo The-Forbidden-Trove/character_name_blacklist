@@ -47906,5 +47906,3 @@ nesitabletki
 mfliro
 keku
 summon_slayer
-trapboy_sential
-vuvujm_sentinel
