@@ -49774,3 +49774,5 @@ pivunet
 demalu
 satelink
 skail
+beralat
+jekaral
