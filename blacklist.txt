@@ -52039,3 +52039,4 @@ explosãodeflechadefogo
 megashark
 megawreck
 arcksander
+nakonec_ls
