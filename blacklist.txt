@@ -30769,7 +30769,6 @@ mage__
 melee_
 new_necro
 pm_
-poenewbie
 poesecond
 sadsdadsadsadsd
 toxi__c
@@ -52206,3 +52205,16 @@ mynameiskyyy
 occultisticespeark
 lupinact
 lupinlake
+extra_shiza
+grustno_kalanadra
+phloyda_kalandra
+pobeda_mne
+yber_dverny
+zombie_crup
+ауе_лхвс
+похуй_дед
+смех_смехом
+хахахаххахаа
+язнаюкакубитьпапича
+янезнаюкакубитьпапича
+네크건틀스테
