@@ -52730,3 +52730,6 @@ mihawk_kld
 cocacolanormal
 mfpresak
 presakaurabot
+poopkal
+spoufery
+rfserpent
