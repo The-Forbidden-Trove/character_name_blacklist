@@ -54483,3 +54483,5 @@ legion_monster
 icecandywithonion
 bonezonedungeon
 sdevils
+golemanncer
+gladiuskalan
