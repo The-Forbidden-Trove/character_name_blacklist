@@ -55007,3 +55007,4 @@ lightning_strayk
 ssf_newplayerr
 st_tornado
 ts_bruja
+dmgtryhardi
