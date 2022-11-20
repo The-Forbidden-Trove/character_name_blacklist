@@ -57462,3 +57462,6 @@ tuco_r
 tuco_s
 tuco_u
 tucomay
+changeableranger
+fulminantranger
+hilisk
