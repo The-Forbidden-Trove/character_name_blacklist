@@ -12936,7 +12936,6 @@ Here_fishyfishy
 Hero_a
 Hero_b
 hero_c
-Hero_y
 HeyMahoney
 hfghfhgfhgf
 HiroTOTEMScold
@@ -59315,3 +59314,4 @@ wse
 zizaranys
 лукасука
 циклонидзе
+hero_y
