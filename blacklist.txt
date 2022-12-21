@@ -60709,3 +60709,5 @@ shaper_of_minions
 shaper_of_storm
 shaper_of_winters
 lapuo
+somebra
+newfivewaymilkyleague
