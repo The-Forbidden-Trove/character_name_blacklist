@@ -60909,3 +60909,5 @@ act_ii
 hellforge_vi
 lillithxx
 ia_pudge_pudge_pudege
+hexpaini
+simulakris
