@@ -4146,7 +4146,6 @@ IPontiffSulyvahn
 IceIcexxIce
 incixx
 PariMach
-Sombronha
 breef
 Cikenah
 dimead
@@ -18727,15 +18726,6 @@ Ritual_BBV
 Ritual_Lala
 UL_ChingChong
 rquym
-LobaumOuRuim
-LobomDoMal
-Lobomn
-LobomRapidao
-LobomVORTEX
-SifaoNaBoca
-TheDeathIsReal
-TrapDanger
-VamoDeVortex
 Exp_zDps
 DirtyMonkey
 Ilimy
@@ -20631,7 +20621,6 @@ KORKRANEUH
 ExLowBall
 BlastBlade_ritual
 ерлан_дохлич
-Lobim
 afsdfasdfasdfsadf
 BurnRageDie
 DownWithToxicity
@@ -21041,7 +21030,6 @@ BoornInFire
 zxcOlegMongol
 WinLanEmCold
 Phewpepew
-LobomPoison
 PrimalAnotherSpark
 JojEdnieRRESQ
 twitchㆍgodlevelaccount
@@ -49669,8 +49657,6 @@ rfdudex
 выйти
 tucanksc
 whatahappychappy
-lobm
-lobomdehelix
 volatiletri
 cieczka
 nakacarobota
@@ -61510,3 +61496,16 @@ vas_ebet_killer
 quatschnixx
 flashtotembrocuckssf
 russian_spiders
+_poison_mistress_
+_world_eater
+_экстерминатор_
+darkest_vortex
+sir_torvard
+spectral_astrid
+steel_barracuda
+the_last_call
+гутттаперча
+казуальный_мейнстрим
+регулятор_биомассы
+стихийные_сосочки
+хранитель_крестражей
