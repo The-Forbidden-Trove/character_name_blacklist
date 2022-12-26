@@ -39844,7 +39844,6 @@ _mistyczny_janusz__
 sentinelozy
 nasral_na_minu
 shelltraps
-auction_house_when
 cf_go_brrrr
 i_hate_bex
 paluda_facebreaker
@@ -43291,7 +43290,6 @@ kilokl
 ribosidol
 trolispos
 sentinel_mirrorrr
-moneys
 ap_ashe_po_wylewie
 sheeppyshot
 fassdéréph
@@ -61747,3 +61745,8 @@ alphaberserk
 bloodiswhatiwant
 cladabot
 sanctum_killer___
+mafia_boss
+prokrust
+xernu_reap
+shockwavecarry
+horu_ea
