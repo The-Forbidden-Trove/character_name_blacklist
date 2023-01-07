@@ -63659,3 +63659,5 @@ ostraya_britva
 xernu_bane
 horu_boss
 akistoy
+zimny_strzalowiec_barte
+ёбаный_колдун
