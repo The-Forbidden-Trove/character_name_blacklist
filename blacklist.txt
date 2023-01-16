@@ -60336,13 +60336,6 @@ toxicoxka
 неработующийвихрь
 электрофарезерка
 ядовитые_друзья
-alexu
-vitekvalera
-валераячс
-вапвапло
-вятское
-дваднядостарта
-роленгер
 ывчсмыва
 arrowcabbage
 disintegrationz
@@ -63132,7 +63125,6 @@ lootwhendmgtaken
 joker_joke
 wrath_anger_hatred_
 mrspimpl
-aaronv
 rancor_colddotagain
 rancor_requis
 rancor_ruthless
