@@ -66491,3 +66491,5 @@ zoltore
 zoltores
 zoltoress
 zoltorrrrr
+winterbite_aurabot
+winterbite_rf_forever
