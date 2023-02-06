@@ -66802,3 +66802,4 @@ ek_tuff
 rehlendor
 levelonehandingear
 pognogfireball
+vaal_strongerthan
