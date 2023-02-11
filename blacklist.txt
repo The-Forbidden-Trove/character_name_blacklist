@@ -7311,7 +7311,6 @@ HarderThanVolvo
 MaxBlockEarthQuake
 Mekkeli_Müsrik
 MeyveTabagi
-OrumcekAdam
 ParaLazimsaLassa
 PledgeOfHandsNineEx
 Soguk_Su
@@ -67085,3 +67084,4 @@ kintras
 kintrass
 kintros
 monarchkintras
+linr
