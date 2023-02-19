@@ -67778,3 +67778,4 @@ edain_lord
 max_soulrend
 maxworld
 wolfgear
+tr_tricked
