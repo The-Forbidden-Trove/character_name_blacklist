@@ -67815,3 +67815,5 @@ hasbulla
 varmour_evasionrating
 winspark
 multiplecontenu
+last_char_in_this_lg
+doupanopa
