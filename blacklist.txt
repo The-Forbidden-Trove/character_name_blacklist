@@ -67781,3 +67781,5 @@ wolfgear
 tr_tricked
 sparkfiat
 mstilus
+tornsanctumado
+hex_holyman
