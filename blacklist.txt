@@ -67779,3 +67779,5 @@ max_soulrend
 maxworld
 wolfgear
 tr_tricked
+sparkfiat
+mstilus
