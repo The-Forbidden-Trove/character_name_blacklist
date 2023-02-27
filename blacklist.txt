@@ -68107,3 +68107,5 @@ lookingfor_hom
 carry_original
 doom_turtle
 wergrtgdfgdfgdfgdfgdfhg
+asoca_poison_spark
+asoca_probablysurvives
