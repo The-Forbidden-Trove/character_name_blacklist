@@ -69979,3 +69979,5 @@ dead_or_sweet
 diree_doppea
 doom_deamms
 ice_trap_light
+subthermal
+whoopcat
