@@ -71266,3 +71266,5 @@ special_support_for_oz
 templaarf
 theangeloffdeath
 xsrsanctumx
+filantroop_crucible
+filantroop_dd_crucible
