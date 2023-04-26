@@ -71337,3 +71337,6 @@ operrstkalandra
 operrstnemesis
 operrstsentinel
 witchorbarchnemesis
+lorjack
+gnegner
+허니에그
