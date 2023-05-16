@@ -65559,7 +65559,6 @@ heroic_ea
 pestilence
 thanatos
 dracon
-horus
 judas
 mictain
 dantealighieri
