@@ -73440,3 +73440,5 @@ trickyclown_clownfound
 whiteaurabot
 wronghodog_nevy
 groupwaitingroom
+crucible_halo
+tw_vortex
