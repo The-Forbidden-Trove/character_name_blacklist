@@ -73480,7 +73480,6 @@ www_vvv
 johnny_c
 johnyy_c
 resblaster
-resource
 resourced
 resourcefui
 resourceful
