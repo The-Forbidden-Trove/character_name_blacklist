@@ -25139,17 +25139,6 @@ CrazyDeathKiller
 CrazyDeathMagician
 CrazyDeathNecromancer
 EXPcrazyROBINHOOD
-AnotherWander_Sye
-CarryBot_Sy
-ScuffedBloodKnightRP_Sy
-Sye_Arc
-Sye_BV
-Sye_FrostBlinkOccultist
-Sye_MSJugg
-Sye_ScuffedHiddenMeta
-Sye_ScuffedRF
-Sye_ScuffedVD
-Sye_ShieldIGuess
 AlexaStopLagging
 arcwhatz
 asassdd
@@ -25687,7 +25676,6 @@ HC_numero_uno
 julyfoools
 julyfooools
 julyfooooools
-Sye_HeadacheInducer
 AnotherBuildOfSpectres
 fartinmymouthplz
 iBimBamBum
@@ -25948,7 +25936,6 @@ FuocoSacro
 imario
 ImarioPatFinder
 iomario
-Sye_BoneJugg
 zDPS_SUMMONER_CUCK
 Rexion
 kranglesomebitches
@@ -33817,7 +33804,6 @@ deadmickeylecter
 천번찔린김형균
 flickmycocpls
 wankerrelik
-notscuffedspiders_sye
 fifourf
 litoo_bossing
 iwannacarrytoo
