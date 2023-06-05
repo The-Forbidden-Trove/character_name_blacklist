@@ -74462,3 +74462,8 @@ flamebalityheart
 makemepurr
 poison_meow
 bblkndblbay_suku
+winterbite_crucible
+winterbite_spining
+winterbite_stack
+winterbite_vortex
+winterbite_zombie
