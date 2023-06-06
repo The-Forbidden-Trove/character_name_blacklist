@@ -45304,25 +45304,14 @@ sekontrai
 spinyugg
 suparkboi
 touteim
-arch_mine
 atlas_cwdt
-dark_neck
 delight_arrow
 delight_shadow
 limitedweek
 miner_arch
 miner_dark
-miner_death
 miner_deliri
-miner_go
-miner_magic
-miner_newest
 miner_regen
-miner_scourge
-miner_sentinel
-miner_syion
-miner_templer
-miner_witch
 start_go
 trick_star_
 광산달려라
@@ -50674,7 +50663,6 @@ zoomzoomanilogas
 alphagolem_bob
 popuskistrebitel
 nuichtochtoyavor
-miner_start
 mf_culler_slayer
 trynewbuildone
 lonelytimestartsnow
@@ -58112,7 +58100,6 @@ meredith_sanctum
 sachero
 zq_chetotam
 jerdsatfx
-miner_sanctu
 bowingboi
 hellothereibre
 sainersanctum
@@ -59569,7 +59556,6 @@ stackingdaaccuracy
 куколдрф
 neunanion
 nolo_ruthless
-miner_nimis
 lightwoodxyx
 deadnoya
 mewwwwl
@@ -74517,3 +74503,4 @@ crobable
 tatarskayamatreshka
 meow_meow_meow_meow
 meow_meow_meow_meow__
+miner_senti
