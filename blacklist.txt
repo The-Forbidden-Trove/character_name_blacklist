@@ -77799,3 +77799,6 @@ zipz
 지옥불맹타_기운센
 천산의단도달려보자
 할배기운센
+crystalethic
+frost_rift
+iceshardsnow
