@@ -77875,7 +77875,6 @@ tets_run
 combat
 error
 tough
-wall
 busikovsky
 rossomaha
 shonburg
