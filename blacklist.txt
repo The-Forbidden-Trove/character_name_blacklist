@@ -66148,18 +66148,6 @@ vaal_boytoy
 vaal_farmaconte
 leaguetestenjoyer
 nextleagueisbad
-battlingjack
-battlinjack
-bullkathos
-jimlee
-katehoshimiya
-leofitz
-matthewmurdock
-merihari
-miorinelenbran
-sibillaroyalhighness
-slettamarcury
-yukinoko
 wize
 kaizer
 notmyea
@@ -77426,8 +77414,6 @@ rangertesting
 rffirstblood
 testingduelist
 fsporter
-harunaaikawa
-星宮けいと
 drova_crucible
 drova_trade
 waydrova
