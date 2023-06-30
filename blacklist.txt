@@ -77935,3 +77935,5 @@ purespec
 sdfsdfsdfasdas
 madison_absolutionnecro
 madison_ranger
+stdarc
+开荒闪电箭
