@@ -78516,3 +78516,5 @@ last_challenger
 ps_accendant
 solo_spiner
 xpantherx
+zombsqueletor
+bad_____rf
