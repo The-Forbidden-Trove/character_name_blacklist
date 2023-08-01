@@ -7676,7 +7676,6 @@ Locogringo
 LocoScourge
 Locosensi
 LocoSensi
-Sensi
 Sensiboy
 Sensigirl
 SensiStrike
