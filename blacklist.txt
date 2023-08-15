@@ -78907,7 +78907,6 @@ lighningpresak
 presakcasc
 vovateszabeg
 mirudraas
-wise
 test_run_duo
 fayrobot
 janapia
