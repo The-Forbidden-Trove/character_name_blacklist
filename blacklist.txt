@@ -14743,13 +14743,10 @@ ZmyshenkoValeriy
 Гунгнирр
 ЖмышенкоВалерийАльберт
 DeepJuice
-Efaora
 FiftyFacesOfCoc
 GrowUpBitch
 HarvestRedbeak
 JaTylkoPoSkrzydla
-Naturis
-Pietri_
 Pietri_Arc
 Pietri_BL
 Pietri_Bomber
@@ -14763,13 +14760,11 @@ Pietri_Flash
 PietriFlash
 Pietri_Flash__
 Pietri_Flick
-Pietri_Ice
 Pietri_Oro
 Pietri_Reave
 Pietri_Stacker
 Pietri_Ultimatum
 PietriHarvest
-PietriHeist
 Tashuani
 TwójStaryNaMinie
 WeedGardener
@@ -15308,7 +15303,6 @@ Duo_I
 BrakCheciDoZycia
 RachelAnneMcAdams
 ZlidenAuraExp
-Pietri_SST
 syndicateoperativespopo
 GalakAshes
 CatedralaMântuirii
@@ -22778,7 +22772,6 @@ kodamaRF
 ЧмымрикНевмирущий
 AyR_ScioN
 Imbasyllabus
-Pietri_Palm
 cibarik
 ValeonSpell
 GieneK_Killer
@@ -34094,7 +34087,6 @@ po_beaudoin
 rince__creme
 seraphine_boyfriend
 namazeraaaaaaaaaaaa
-pietri_spark
 ㆍhㆍeㆍxㆍaㆍbㆍlㆍ
 cevaqweqweqwewq
 yeraçici
@@ -37736,7 +37728,6 @@ scscsdcsdc
 vdfsvdavdfvdf
 zlidendelver
 wallykaby
-pietri_sentinel
 aurasuwu
 trapperenjoyer
 chipokayfu
@@ -43047,7 +43038,6 @@ zol_djin
 discordstacking
 totemidliageev
 rifferson
-pietri_mf
 aktovichok
 anyone_can_bekilled
 boris_britvasmert
@@ -47813,7 +47803,6 @@ icesyntyx
 trainingazxctr
 project_ayr_ii
 странныйуголек
-pietri_kalandra
 flaskosdevenenitouwu
 watermelown_party
 goldbanana
@@ -51328,7 +51317,6 @@ _ssf_pain_arrive_
 makachevjr
 mass_skelebros
 ayr_mf
-pietri_t
 milkyet
 takeda_tssoulthirst
 gyrbuz
@@ -55902,12 +55890,10 @@ txsyntyx
 coldmayhemssf
 dojik_yaada
 sdotsl
-pietri_bs
 pietri_c
 pietri_d
 pietri_mayhem
 pietri_p
-pietri_ts
 delverubeau
 rueaumayhem
 futaftw
@@ -57316,7 +57302,6 @@ txsyntyxx
 шмак
 imfedupwiththedrugs
 ннппнппнпнн
-pietri_s
 puntosdefrio
 轉巴轉吧七彩霓虹燈
 bariskoonyedi
@@ -60634,7 +60619,6 @@ stserpentstr
 mythicalveiaodototem
 арбузы_поиск
 bowzliden
-pietri_sc
 futaเเเhentaเloverเเเเเ
 asdsagfhg
 чайнислёпашка
@@ -67452,7 +67436,6 @@ sparbrise
 sparkfiat
 tournedoshoot
 slap_kusse
-pietri_h
 __wize__
 _kaizer_
 _notmyea_
