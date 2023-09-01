@@ -73079,8 +73079,6 @@ trickyclown_clownfound
 whiteaurabot
 wronghodog_nevy
 groupwaitingroom
-crucible_halo
-tw_vortex
 нубиксб
 melifaroat
 melifaroc
@@ -81375,7 +81373,6 @@ nevyboredom_agane
 nevychomp
 plzdontbedog
 whatslonger_cockneck
-ancestor__tornadoshot
 melifarodd
 ancest_traaal
 pestilentdervish
