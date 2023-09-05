@@ -80818,7 +80818,6 @@ ama_scourge_two
 ama_ultimatum
 chick
 elama
-honey
 icespireseverywhere
 losantrax
 thealluringabyss
@@ -82189,7 +82188,6 @@ mahdiyar_invoker
 thefireiestbobby
 заморожукурво
 three_ancestor
-bearded
 dorks
 anc_occult
 anc_poison
