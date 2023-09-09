@@ -83714,3 +83714,5 @@ jtsb_crucible_tr
 keirnan_shipka_bf
 king_of_logging_in
 strong_stacker
+takigoscrf
+smitedeneme
