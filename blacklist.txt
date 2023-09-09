@@ -54809,12 +54809,10 @@ kleitontemplario
 kleitontop
 kreitinaura
 kreitinhc
-kreitinlight
 kreitinrf
 naoentronoboss
 necrokleiton
 necrokreitin
-necrospirity
 kreitinburro
 kreitinoutravez
 ruthlesstest
@@ -57729,7 +57727,6 @@ major_rf
 major_templar
 mao_gyre
 sdfaesrbawerbawerba
-kreitinshadow
 hcllruthone
 qjhdf
 ___fael___
@@ -60222,7 +60219,6 @@ resist_slave_mind
 resist_the_slave_mind
 major_srs
 mao_aura
-jugerfarm
 ihatehumans__
 mirrorofkalandra__
 sanctum_j_
@@ -62074,7 +62070,6 @@ sdkgsdqweias
 dye_ball
 fruddrequiresdonations
 major_giga_chad
-necrotop
 lokilaufeyson
 winx_club
 imiin
@@ -78876,7 +78871,6 @@ runrunnnnn
 ыфвфывыфвыфвфыв
 simonataamao
 zuggerzugg
-kreitincolddot
 ancestora___
 meyduz
 draxianna
@@ -82609,7 +82603,6 @@ zettaizerker
 fluffybiscuits
 fluffykisses
 обоссанаядыня
-kreitinhexblade
 meyduza
 myeduza
 _raffou_
