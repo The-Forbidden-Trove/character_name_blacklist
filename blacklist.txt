@@ -4664,7 +4664,6 @@ Hi_지면분쇄
 부골찍먹
 토템성노인
 CYCLONADOOO
-DelveDigger
 ELEVOLTOU
 Mfando
 Panzerauder
