@@ -88673,3 +88673,8 @@ zzajazz
 firstbuildmelee
 shadowman_ancestor
 tsscion_crucible
+toa_chief_tom
+toa_range_tom
+toa_scion_tom
+toa_templ_tom
+백화_번
