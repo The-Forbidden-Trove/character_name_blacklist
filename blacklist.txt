@@ -15021,7 +15021,6 @@ TotoyMASO
 TR_Exp
 TryLangGud
 imyourtinderdate
-magicfinding
 yoinkitems
 loadingstill
 ewwwwuglahh
@@ -87111,7 +87110,6 @@ patrykpiorunluk
 rfinqcrucibel
 takigoscrf
 tankpatrykgolem
-captain
 spoiler
 tough
 variety
