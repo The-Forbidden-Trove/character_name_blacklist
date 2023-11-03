@@ -88982,3 +88982,12 @@ pooppooppoops
 huysz
 ice_spear_huysz
 zhuyz
+event_huysz
+ryu_chief
+ryu_findingmyself
+ryu_krangled
+ryu_pragmatical
+ryu_tank
+totkaa
+barabaraburuburu
+krangled_siiro
