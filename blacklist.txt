@@ -35365,7 +35365,6 @@ yuroro
 유로로
 유로쓰
 anamoly
-flush
 grouch
 italia
 leper
