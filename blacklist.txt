@@ -89967,3 +89967,5 @@ bnfe
 khaoblastfromthepast
 khaoshiftingstones
 borrowed_build
+만능도르
+inspired
