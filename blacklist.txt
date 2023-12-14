@@ -24725,7 +24725,6 @@ MapSTORAGE
 MAPstorageTWO
 StrangeFeeling
 LuaXl
-Hooks
 HotspotMule
 HotspotZerg
 QueenOfOriath
