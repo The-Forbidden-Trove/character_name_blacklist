@@ -93813,3 +93813,5 @@ chargeresurrectintown
 윤준이삼촌
 저는남자페미니스트입니다
 지정타셔터맨
+aura_afflicted
+aura_ancestorhr
