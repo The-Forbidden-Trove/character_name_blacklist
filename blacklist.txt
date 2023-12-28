@@ -23023,29 +23023,11 @@ Acherie_Scourge
 BambuGemendo
 TreboniusMaximus
 BDE_DaddyDap
-CTO
-DancingDapano
-Dapano
-DapanoDarkrain
-DapanoSNES
-DapanoTV
-Dapatage
-FleshandStoned
 FriendlyTraderMayhem
-HeraldBuildSucks
-HitHitCritCritHitHit
-IamDapano
-IamMini
-IClearMaps
 Igorspenis
 NerfSecondWind
-NerfSmokeMine
-OneExGo
-Ryphu
-ShiftKey
 SlowestExile
 Tibb
-TomsNoodle
 TwitchDapanoTV
 TwitchGaming
 WandMF
@@ -34049,8 +34031,6 @@ dapanodarkrain
 dapanosnes
 dapanotv
 dapatage
-deepdelverdapano
-divinemarket
 fleshandstoned
 fraught
 friendlytradermayhem
@@ -34060,8 +34040,6 @@ iamdapano
 iammini
 iclearmaps
 igorspenis
-luca
-mfacad
 nerfsmokemine
 oneexgo
 pataboxbi
@@ -34702,7 +34680,6 @@ santa_muerte_
 на_донышке
 старый_потрёпанный_ишак
 хитрый_еврейчик
-tierzero
 nymahcssf
 망령_보관함
 werewrqrewqrwqerqwer
@@ -52401,7 +52378,6 @@ _redemption_f
 lightc_avocado
 strongest_avocado
 bossingslavetwo
-magicfindiir
 carniçapodre
 crisredfield
 david_draimman
@@ -66003,8 +65979,6 @@ babushkazinaa
 bobbuildsummontester
 xcvsg
 idontsanctum
-potoffire
-stan
 click_baited
 testo_quatre_cent
 wimpendingdoom
@@ -74341,7 +74315,6 @@ molenebeck
 auracocker_again
 bannanlecker
 zombie_zoo
-pmme
 stetoide_master
 gogokubogoyouwinftwenty
 gogokubojesbejbyily
@@ -77018,7 +76991,6 @@ nipnongchingchong
 액트를_밀어보자
 ไฟใหม้
 poeiiดีกว่าdiabloiv
-mfgod
 areyoubigplayeraura
 bigboos
 çakall
@@ -89645,7 +89617,6 @@ wertsdfgf
 호수신성한유물
 호수재미
 호수피격연습
-funnier
 ogmkjfghnfgnhfgh
 shiftingwobbel
 woobbel_blast
@@ -93248,7 +93219,6 @@ powerduck
 bobbysyacht
 evangelynecra
 gyattrizzlerskibidi
-mfdoesnotwork
 dog_mailloux
 mother_terrorista
 pablo_escobomb
