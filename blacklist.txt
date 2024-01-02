@@ -3551,7 +3551,6 @@ Vatamixuiru
 ГнилиотЪ
 Мартышлюш
 МартышлюшкаЪ
-НетВремениИграть
 ПЁСдаЛИСъ
 ПивасикИчипсики
 ПипиркаГазированная
@@ -7111,8 +7110,6 @@ zxcHaze
 MasterTheWander
 funboydori
 Craftislife
-MariaVictoriaVellejo
-neBabina
 Pablus
 ОрелОрлиный
 Alwayswannaplay
@@ -76505,8 +76502,6 @@ letsiaa
 freshlycutgrasssmell
 spicylass
 hazecasual
-henao
-маминавичка
 gcl_presak
 presak
 presaktestsparkt
@@ -91996,7 +91991,6 @@ robbingoodfromivanovo
 scion_ivanovo
 spuskmasterru
 affliction_galimto
-_kurwa_bober__
 presakafl
 presakgriz
 feuzion
