@@ -6817,7 +6817,6 @@ BaD__GirLs
 BaD__GirLz
 BaD__GoLeM
 BaD__GoLeMs
-BaD__MaN
 BaD__MeN
 BaD__Race
 BaD__SSF
