@@ -96738,3 +96738,5 @@ sprühwurst
 summoningopa
 wurstwerfer
 zaubergurke
+lootlure
+带盾冲旋风斩的就是近战
