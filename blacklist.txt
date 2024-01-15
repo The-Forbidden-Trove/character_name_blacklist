@@ -97620,3 +97620,4 @@ minotaur_ok
 sanctum_elc
 vlar_tem
 woman_steel
+affliction_exile_god
