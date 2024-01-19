@@ -98010,3 +98010,4 @@ zawarudo_archn
 zawarudo_cruc
 zawarudo_nemesis
 ㆍfireinmyveins
+ispinleftandright
