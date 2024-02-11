@@ -99566,3 +99566,12 @@ kartalbey
 redbustard
 turkishkiller
 warleader
+elc_aurum
+elc_bluster
+elc_flower
+elc_junder
+elc_nefor
+elc_nefor_
+elc_scion
+elc_wild
+junder
