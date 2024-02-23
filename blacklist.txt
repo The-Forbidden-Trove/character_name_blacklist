@@ -100157,3 +100157,7 @@ bannoka
 hunt_affliction
 ryu_shondo
 ryu_takodachi
+blightkek
+blightstash
+mebarrage
+mustbeaura
