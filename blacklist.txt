@@ -100360,3 +100360,4 @@ affli_necro_tom
 백화_종자
 백화_칼날
 luscaa
+freaxa
