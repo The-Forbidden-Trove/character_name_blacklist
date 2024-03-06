@@ -17311,7 +17311,6 @@ ZxCuResd
 минёргг
 мистербалистыч
 мордагдеаа
-не_ну_а_что
 нучёпацаныаниме
 огненыйминёргг
 опятьведьмаПОЧЕМУ
@@ -100391,3 +100390,6 @@ affliction_hyotv
 lionessvel
 kranzo
 ты_не_готов
+ama
+mitsutornado_afflict
+vdddtherapistkiller
