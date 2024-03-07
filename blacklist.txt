@@ -100416,3 +100416,6 @@ cheetosaura
 sweetsixteen
 coco_rain
 고난_핑사
+각성한_명중_시_눈물_보조
+각성한_피격시_눈물_보조
+zachx_dsga
