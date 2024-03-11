@@ -100387,7 +100387,6 @@ affliction_hyotv
 lionessvel
 kranzo
 ты_не_готов
-ama
 mitsutornado_afflict
 vdddtherapistkiller
 degronasz
