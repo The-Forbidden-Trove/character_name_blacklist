@@ -55477,7 +55477,6 @@ coldmayhemssf
 dojik_yaada
 sdotsl
 pietri_c
-pietri_d
 pietri_mayhem
 pietri_p
 delverubeau
