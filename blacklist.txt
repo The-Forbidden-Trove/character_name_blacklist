@@ -102561,3 +102561,7 @@ bladskay_natura
 косплей_артема
 murloc_token
 murlocfirsttavern_token
+armadielle
+armadiel
+zpank
+assucansee_nec
