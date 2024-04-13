@@ -14871,7 +14871,6 @@ IceCovid
 SzybkiCycek
 GolemsCarroñosos
 vakilla_CC
-vakilla_D
 vakilla_MC
 vakilla_Q
 vakilla_regret
