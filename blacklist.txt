@@ -104110,3 +104110,9 @@ bratku_ocb
 i_am_dirty_boy
 mf_has_failed_me_bozo
 scamdulfbaseg
+essence_manabond
+essence_reave
+essence_rf
+essence_simulacrum
+essence_ts
+essence_wardloop
