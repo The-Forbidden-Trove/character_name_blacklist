@@ -105904,3 +105904,5 @@ blind_emeryt
 carkeynos
 takeda_allrounder
 시즌재미쑴
+두암동추어
+mojo_archmage
