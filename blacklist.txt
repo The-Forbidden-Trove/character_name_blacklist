@@ -64611,7 +64611,6 @@ roguelikegeier
 smellslikepizza
 stiefelriemenbill
 walarc
-srs_nova
 boberkoputa
 eeeboyllk
 pusegorl
@@ -64621,11 +64620,8 @@ pussegorl
 цйуцкйцкйц
 agliuaegbnioñsndñiouhae
 hcminionmaster
-itzkhan
-itznova
 khansc
 tethal_arrows
-toasted_templar
 x_khan
 busterwander
 hcgljiva
@@ -66937,11 +66933,7 @@ doc_sertin
 doc_uberuuuuuuber
 doc_vordeen
 divinekhan
-dontkillmeagainplz
-doom_turtle
-golden_waffle
 hcsacredspark
-toasted_arrow
 netola_ta_dando
 indestructible
 magicc
@@ -76678,7 +76670,6 @@ lhc_lastofseason
 lhc_plogstedt
 lhc_plogzilla
 inferno_spin
-toxic_khan
 paulão_spark
 paulãoo
 paulãotadeaura
@@ -78039,7 +78030,6 @@ testdoveiodototem
 hrtyjryk
 trialstestbs
 ssf_complete
-megachonk_jugg
 cfdopaulet
 voufazerdinheiro
 ralileocf
@@ -80959,13 +80949,10 @@ lhc_delvis
 lhc_dieameise
 lhc_srs_helloyoutube
 lhc_toooooonky
-doom_nebula
-doom_nova
 frenzybeast
 godplsyes
 shadowborn_
 toasted_champion
-twisted_butcher
 paulão_neido
 pauletbiceps
 far_q
@@ -87454,7 +87441,6 @@ anie_vp
 lhc_dnf
 lhc_flateric
 lhc_uber
-kingkonggun_hc
 calma_camisinho
 szybciejnizsraczka
 fenya_force
@@ -92007,7 +91993,6 @@ spinningpoisonblades
 lhc_balllighter
 lhc_brutalis
 lhc_starterdude
-blood_warden
 paulãomf
 pauletbow
 veio_da_caspa_
@@ -100807,8 +100792,6 @@ cullingasdasd
 testcaveiradefogo
 fixedaclientcrash
 eternal_suffering
-shoootiemcarrow
-totemcarryhc
 ахаххахахахаахахахаааа
 arrestthatbastard
 housedigger
@@ -103363,9 +103346,6 @@ turbocritdd
 lhc_donbosco
 lhc_frank_drebin
 lhc_rehbock
-lordnecromonster
-rakiata_enjoyer
-vaalgodspeed
 _paulet_
 paulão_casta_critico
 poucodrop_muita_fé
@@ -105894,8 +105874,6 @@ necro_aimyon
 lhc_discolothar
 lhc_magicmuff
 lhc_stickipete
-rhino_godfrey
-uber_nightmare
 _paulão_casta_critico_
 loirado_arcoem_gel
 paulâo_venom_giro
