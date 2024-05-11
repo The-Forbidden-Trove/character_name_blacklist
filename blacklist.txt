@@ -106405,7 +106405,6 @@ battle
 bear
 captain
 spoiler
-tough
 variety
 kijorage
 kijosteel
@@ -106737,3 +106736,4 @@ krakzou
 méliotache
 méliotass
 méliotasse
+howmadkid
