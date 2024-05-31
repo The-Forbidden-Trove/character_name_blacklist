@@ -107486,3 +107486,6 @@ lost_holy
 coco_wasd
 rfouxli
 gavynka
+딱따구리
+살모사
+칠면조
