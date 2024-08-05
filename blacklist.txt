@@ -110935,3 +110935,5 @@ firedsobad
 belarussian_poeplayer
 ranger_firebow
 hate_sok
+我害怕獨自死去
+card_counter
