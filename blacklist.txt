@@ -39865,7 +39865,6 @@ zara_sen_aisha
 kor_iu
 kor_방탄소년단
 kor_아이유
-aggravate
 sentient_ice
 fffffffffffqf
 生死看淡
@@ -112587,3 +112586,5 @@ derdoppelwumms
 eidbringer
 axjikoa
 血の雨土曜日
+dsiuno
+whatminionbest
