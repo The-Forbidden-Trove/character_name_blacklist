@@ -113599,7 +113599,6 @@ tankymini
 black_goblin
 settler_listdue
 settlerxeh
-resource
 restrikeful
 pisyunmirrorpolistirol
 aflows
