@@ -114123,3 +114123,5 @@ explosivefodase
 ragemaxer
 scrush_ysdp
 takeurbuild
+zerodamagedealt
+bare_tico_fino
