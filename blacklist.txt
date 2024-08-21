@@ -99760,7 +99760,6 @@ prigaemx
 nietzsche_path
 notaworstbuildcopium
 schwaboteur
-otorez
 add_auction_house_asap
 hc_ssf_test
 kineticpowder
@@ -114290,3 +114289,4 @@ nerf_tspls
 notmfdwbruh
 notsanctumslave
 truwuayaya
+낭만파주먹세대
