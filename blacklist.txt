@@ -3472,16 +3472,8 @@ MirrorWandering
 WinLanEmOu
 theaurastacker
 theaurabots
-dabios_IZ
-ars_IZ
-dabios_Ritual
 dabios_sun
-Legendary_born
-myGolemsKilledCyrus
-OLD_Perdyn
 OuroborosRF
-Totem_tebe_V_ZAD
-totem_V_zad
 DarknessPone
 bikaranka
 NenavizhuEtulgru
@@ -9074,7 +9066,6 @@ CyclonRedline
 Cypionato
 d_don_g_afrusse
 DA_Witcher
-dabios_ultimate
 dadasasfgfgf
 DaddyNorrie
 DaddyPleaseCurseMe
@@ -10129,7 +10120,6 @@ LeBronzer
 lechvpizdy
 lechyvpizdykek
 LegacyCleaveMaster
-Legend_never_died
 Legio_Brut
 Legion_racer
 LegionOfShatteredSteel
@@ -10258,7 +10248,6 @@ macroonn
 Maget
 MAGIC_INVI
 MagicShoW
-magmaGum
 magnetlinks
 MAHDIYAR_AURA
 MAHDIYAR_ULTIMATUM
@@ -13309,7 +13298,6 @@ NotSenses
 NoWaySparkU
 Occulouse
 OG_BUDA
-oh_shit_hereWe_go_again
 okjfnvhgbyiend
 ONESHOT_X_X
 oneweekcharacterr
@@ -13972,7 +13960,6 @@ StrongUltraSuperHype
 SupportingYourAssExp
 Tabulaaaaaaaaaaaaaaaa
 The_Siphoner
-Thirteenth_Seraphim
 Uber_Tank
 ultjtl
 well_i_dont_know
@@ -13996,7 +13983,6 @@ zzzFEFFEFEFEF
 Думаешь_я_Ведьма
 Дэд_билд
 Женечкатридвадва
-ЗаМнойНежить
 йнр
 йцуйцуйцуйцу
 Кукусямба
@@ -30135,7 +30121,6 @@ nn_veil
 ㆍskelemagesㆍ
 athens_delirium
 cocqq
-присядь_на_тотем_
 intimidatingnub
 kallemuulib
 ivotelez
@@ -40396,7 +40381,6 @@ theocoolzinho
 theocoolzito
 theomandominionmato
 theoroubado
-iamnotagod
 sentilisnbt
 evenmovingkillme
 kallemuulip
@@ -45760,7 +45744,6 @@ asus_s
 evsssgauntlet
 fenchelferdi
 gantelyalime
-engame_boss
 gauntletheroo
 klatschnuexee
 dsafsadfgdsaffs
@@ -53055,7 +53038,6 @@ tetraㆍhydroㆍcannabinol
 assstricker
 nolightsls
 earthkillerblya
-деда_торпеда
 moospeedy
 kalandra_vni
 srsronii
@@ -61231,7 +61213,6 @@ trumptwentyfourlegooooo
 shaxgamergaming
 spinmyrightround
 asfsagfwaqrt
-newbooms
 st_minmintam
 yaestgrut_
 __я__
@@ -75457,7 +75438,6 @@ nolightscf
 nolightsrfire
 testylimegyre
 asdqwertyzxc
-сновавичка
 killthemallll
 mmt_rtz_crucible
 off_you_go_littlebeast_
@@ -82692,7 +82672,6 @@ mysticalps
 nolightsblasting
 adljgskjfmhklsdfmh
 pesokvtrusax
-арахнафобнаявичка
 tearfk
 dunno_scbrandenjoy
 dunno_wtd
@@ -90518,7 +90497,6 @@ yevinkang
 starostvradost
 carryurway
 feratinha
-sbytilkinatotem
 bangontran_practise
 dunno_aff_arrowsmt
 dunno_practisek
@@ -105058,7 +105036,6 @@ firevortex_anc
 skiptenyear
 witchne_necropolis
 wizardismage
-упалотжалсявсталобосрал
 pofany_
 theoryconspiracy
 splitingonyourbeach
@@ -110546,7 +110523,6 @@ vaallskillenjoyer
 재미있는리그
 boats_enjoyer
 年の経験
-яспоселкакалгуура
 moreslaves
 kvasdubas
 ididloveduonce
