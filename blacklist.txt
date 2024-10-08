@@ -117634,3 +117634,6 @@ lastbulidos
 mfdeliktany
 miinionek
 settlerssparki
+takeda_blaster
+mojo_darkmagus
+mojo_gauntlettwo
