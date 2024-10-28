@@ -118187,3 +118187,6 @@ ssf_shrek_slayer
 ssf_schocker
 paulão_bleed
 slamxff
+dumb_as_f
+dumb_as_f_too
+whatsajob
