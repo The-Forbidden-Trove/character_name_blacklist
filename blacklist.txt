@@ -118547,3 +118547,4 @@ icetekken
 necrolampatekken
 peanancetekken
 hasturlove
+poe_one_poe_two
