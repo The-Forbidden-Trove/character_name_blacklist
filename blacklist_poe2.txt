@@ -942,7 +942,6 @@ nfww
 boltkunda
 selemenaa
 normonmonk
-merctalus
 _walenok_
 nabeelo
 victoria
@@ -983,3 +982,4 @@ karmelord
 petrificusstotalus
 dangwan
 boogon
+sifinrot
