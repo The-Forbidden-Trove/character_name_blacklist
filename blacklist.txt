@@ -1771,20 +1771,12 @@ IdiotWithABoww
 IdiotWithASwordd
 JonasWitcher
 A_CLASS_corvette
-A_CLASS_hive
 FLOPPA_RAIN
 GOYIM_VENDOR_RECIPE
 ICE_ICE_GIMME_BOX
-ITS_HONEST_WORK_PLS
-S_CLASS_battlecruiser
-S_CLASS_carrier
-S_CLASS_chris
-S_CLASS_destroyer
-S_CLASS_guardian
 THIS_IS_GONNA_BE_CHILLY
 unnamedchar_slotEight
 unnamedchar_slotFive
-unnamedchar_slotSeven
 mayorzero
 Lavariano
 Abisah
@@ -17957,7 +17949,6 @@ chikabombucha
 РАААТАТА
 Pupka_Zalupka
 CrazyFroggggg
-A_CLASS_bomber
 itsgoodtime
 ULTIMA_DUMMY
 Bhant
@@ -24392,7 +24383,6 @@ ysuraa_whatisthis
 IntelligenceAbuser
 UnethicalMagebloodAbuse
 차비차비
-unnamedchar_slotThree
 CaldoBanepoppin
 CaldoDeKUKA
 CaldoPractice
@@ -28935,7 +28925,6 @@ abobussi
 bladeniusa
 poisonbitches
 podajeani
-teddyㆍbear
 ysdp_arcn
 esya
 tyruyru
@@ -38392,7 +38381,6 @@ gflornot
 지금내손이떨리는이유
 elfamossoroulio
 _meleesucks_
-尺爪卞
 fuilke
 дядя_пёс
 whynospectres
