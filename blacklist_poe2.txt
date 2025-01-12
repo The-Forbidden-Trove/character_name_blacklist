@@ -86,7 +86,6 @@ waxedsack
 그기게
 tshowbaam
 kubocraft
-izagan
 kavaei
 roman_monk
 пёс_патрон
@@ -1117,3 +1116,4 @@ laarnes
 nyceee
 drmel
 zxcbiven
+xazor
