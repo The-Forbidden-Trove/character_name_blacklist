@@ -18664,7 +18664,6 @@ DoYouBleedMayhem
 DoYouBleedx
 EddELs
 OniGoroshissz
-SaNN
 SaNNDelirium
 SaNNVermelho
 SaNNyRL
