@@ -1432,5 +1432,4 @@ ea_atopos
 icetroll
 dttt
 deetsss
-강남초밥
-안녕하세요
+강남초밥안녕하세요
