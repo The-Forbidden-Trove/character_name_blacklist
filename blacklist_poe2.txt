@@ -1470,3 +1470,6 @@ mecharol
 alecbloodmage
 egorio_gyrmani
 cozeni
+sparktof
+valhallsvegvisir
+ddalways
