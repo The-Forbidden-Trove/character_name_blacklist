@@ -1567,3 +1567,5 @@ soukup
 maacarub
 mila_atila
 simplefx
+firoks
+soaris
