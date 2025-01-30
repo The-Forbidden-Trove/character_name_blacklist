@@ -119715,3 +119715,6 @@ seenkaaa
 strelacbro
 strelailuk
 strelicica
+pedro_raio
+pedro_fub
+pedro_blast
