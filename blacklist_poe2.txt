@@ -1820,3 +1820,5 @@ softwareproduct
 wujuhill
 pllomba
 fridjsorc
+junekdslee
+izzukoo
