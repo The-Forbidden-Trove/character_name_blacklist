@@ -120037,3 +120037,4 @@ settlers_raynebow
 sok_ghost
 sok_mcbuffin
 ssf_ghost
+redscare_rf
