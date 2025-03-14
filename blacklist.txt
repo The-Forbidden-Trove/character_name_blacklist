@@ -120185,3 +120185,8 @@ illegalfishermanlavey
 jakukoraikoben
 laveyanapostles
 makimalamashtu
+monsterfreshstartin
+monsterrerolledagain
+monsterspinningsolo
+monsterstashmanager
+monstertricharge
