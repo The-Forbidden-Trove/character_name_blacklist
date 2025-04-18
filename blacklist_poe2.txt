@@ -2491,3 +2491,4 @@ jiggybarb
 amazonring
 askoreaaa
 killshot_w
+nfg_huntwitch
