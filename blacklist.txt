@@ -120864,3 +120864,16 @@ toksycznyset
 totemiarzset
 toxicrain_set
 wytrzymalyskurwiel
+author_of_creation
+chernoybog
+death_eye_hunter
+god_of_unmoving
+iii_god_of_tanks_iii
+iii_soul_seeker_iii
+iii_valhalla_iii
+light_robin
+noctis_daemonium
+one_v_one
+the_black_beard
+the_dark_depravity
+void_remnant
