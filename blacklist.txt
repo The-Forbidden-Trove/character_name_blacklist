@@ -111644,7 +111644,6 @@ starlorionn
 boat_fredflintstone
 boat_trap
 cwtgb
-лагает
 youreadyaura
 ножки_маомао
 fluffy_sok
@@ -121426,3 +121425,5 @@ berrozara
 听说魔像加强了
 stronkdyss
 tharthion
+thrarthion
+pselovod
