@@ -23004,7 +23004,6 @@ YoloKaczynski
 SOC_MY_COC
 겨울의눈씨오씨
 Name_For_Character
-MentaGranizada
 MissSindi
 KUKLA_KOlLlDUNA
 스컬지_오컬_늑대
