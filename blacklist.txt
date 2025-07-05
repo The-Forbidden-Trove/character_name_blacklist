@@ -21044,7 +21044,6 @@ Aipy_LolAnotherBadOne
 Aipy_TrashLeague
 AipyBoringleague
 AipyTheApe
-Aipytos
 Aipytos_BlowingDominate
 Aipytos_CraftLeague
 Aipytos_DuoDelve
@@ -21062,7 +21061,6 @@ Resonatored
 깊은Aipytos깊은
 ㆍAipytosㆍ
 ㆍFracturedㆍ
-ㆍㆍAipytosㆍㆍ
 Girlwithnoname_
 alexdo0903
 smalllobster
