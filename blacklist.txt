@@ -121547,7 +121547,6 @@ fb_oguri
 helix_oguri
 howa_oguri
 mf_oguri
-oguri
 oguri_bow
 oguri_bv
 oguri_coc
