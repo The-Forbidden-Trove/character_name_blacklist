@@ -122486,3 +122486,13 @@ psm_by
 傭兵白
 欸欸巴斯光年說你是二四八六
 重新來過的力爆白
+aff_greenarrows
+aff_misszawao
+mabu_st
+mabuass_st
+mabuold_st
+maburau_st
+mer_bermergo_monkey
+mer_cedes_monkey
+mer_necroman_monkey
+oldmaninthehell_nec
