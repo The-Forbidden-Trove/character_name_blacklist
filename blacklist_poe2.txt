@@ -3285,3 +3285,5 @@ catsarewhaat
 crgs
 saferange
 bloodvmete
+lotiche
+noescaping
