@@ -3436,3 +3436,5 @@ dedayorev
 mr_firebolt
 aurabotrollout_
 ledisoft
+planeswalker_karn_
+kaboomsx
