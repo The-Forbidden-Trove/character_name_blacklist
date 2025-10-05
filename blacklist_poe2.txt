@@ -3450,3 +3450,5 @@ correcto_inputo
 molten_bbc
 reinagaladriel
 blodnca
+gob_blobbin
+rouieta
