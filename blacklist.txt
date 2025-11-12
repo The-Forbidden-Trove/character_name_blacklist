@@ -124954,3 +124954,5 @@ kier_secrets
 kier_smite
 praisekier
 praisingkier
+xx_bubble_mage_xx
+yaksobygervais
