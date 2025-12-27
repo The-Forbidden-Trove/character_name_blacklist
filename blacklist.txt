@@ -29682,7 +29682,6 @@ nem_blockii
 nem_lightblockii
 righteous_gc
 righteous_pyre
-ulti_block
 ulti_hemorrhoids
 bsugare
 프레거항목
