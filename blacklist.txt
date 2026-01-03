@@ -945,7 +945,6 @@ sh_brut
 sh_chief
 sh_dedulya
 sh_kayfat
-sh_morg
 uid2
 shadow_dark_legion
 shadow_dark_side
