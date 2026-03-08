@@ -123295,7 +123295,6 @@ pstrnapas
 s_inferno_s
 sc_inferno
 seism_inferno
-svinorezzka
 v_inferno_v
 vstalvoprosss
 x_inferno_x
