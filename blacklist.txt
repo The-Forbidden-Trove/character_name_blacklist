@@ -84343,7 +84343,6 @@ hexctum
 sanctum_nohit
 ssc_tornado
 trapboylight
-ctrlaltdelirium
 droxthewarlord
 ephemeraledge
 nurfmeggg
